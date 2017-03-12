@@ -1,0 +1,6 @@
+D:\Study\Cources\Net\BeanSeed\BeanSeed\bin\Debug\BeanSeed.exe.config
+D:\Study\Cources\Net\BeanSeed\BeanSeed\bin\Debug\BeanSeed.exe
+D:\Study\Cources\Net\BeanSeed\BeanSeed\bin\Debug\BeanSeed.pdb
+D:\Study\Cources\Net\BeanSeed\BeanSeed\obj\Debug\BeanSeed.exe
+D:\Study\Cources\Net\BeanSeed\BeanSeed\obj\Debug\BeanSeed.pdb
+D:\Study\Cources\Net\BeanSeed\BeanSeed\obj\Debug\BeanSeed.csprojResolveAssemblyReference.cache
